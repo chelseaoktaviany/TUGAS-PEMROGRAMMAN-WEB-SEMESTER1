@@ -1,0 +1,32 @@
+.title{
+	font-family: "Comic Sans MS";
+	font-size: 20px;
+}
+
+.subtitle{
+	font-family: "Comic Sans MS";
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+.menu{
+	font-family: "Comic Sans MS";
+	font-size: 15px;
+}
+
+.registration{
+	font-family:"Comic Sans MS";
+	font-size: 15px;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+
+textarea{
+	resize: none;
+}
+
+#footer{
+	font-family: "Comic Sans MS";
+}
+	

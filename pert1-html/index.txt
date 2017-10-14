@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title> Kalbis </title>
+</head>
+<body>
+	<img src="gambar/KALBIS-primer-FC-bg-White.png/>
+	<img src="gambar/DSC_6258-940x300.jpeg/>
+	<h1>Education for a Better Life</h1>
+<p align="justify">Kalbis Institute menerapkan konsep pembelajaran yang kondusif dan interaktif antara dosen dan mahasiswa, didukung oleh staf 
+pengajar akademisi dan praktisi yang memiliki kompetensi dan pengalaman di bidangnya, lulusan penguruan tinggi terkemukan di dalam luar negeri
+serta memiliki komitmen tinggi pada disiplin ilmu yang dimiliki. Proses belajar mengajar menerapkan
+metode diskusi kasus dan <i>active learning</i> antara staf pengajar dan mahasiswa dalam ruang kuliah maupun laboratorium yang representatif,
+sejuk dengan sarana audio visual yang memadai, sehingga menciptakan lingkungan belajar mengajar yang kondusif dan optimal. Para mahasiswa pun
+akan memiliki kesempatan untuk praktek atau magang di berbagai perusahaan, sehingga akan meningkatkan keterampilan baik hardskill maupun softskillnya
+yang akan menjadi modal besar untuk mendapatkan pekerjaan ketika lulus nantinya</p>
+
+
+</body>
+</html>
